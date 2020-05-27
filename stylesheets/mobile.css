@@ -1,0 +1,259 @@
+@media (max-width: 700px) {
+    /** Mob Insro styles **/
+
+    .header__nav {
+        display: none;
+    }
+
+    .header__insta {
+        display: none;
+    }
+
+    .header__wrapper {
+        display: flex;
+        justify-content: center;
+    }
+
+    .intro__wrapper-content_header {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 36px;
+        line-height: 140%;
+        text-align: center;
+        margin-bottom: 20px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .intro__wrapper-content_miniheader {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 36px;
+        text-align: center;
+        margin-bottom: 40px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .intro__wrapper-content {
+        margin-left: 15px;
+        margin-right: 15px;
+        margin: 0 auto;
+        padding-top: 100px;
+    }
+
+    .intro__wrapper-content_start-text {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 36px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .intro__wrapper-content_button {
+        display: flex;
+        justify-content: center;
+    }
+
+    .intro__wrapper-content_button_text {
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 80px;
+    }
+
+    .intro__wrapper-image_img {
+        display: none;
+    }
+
+/** Mob intro end**/
+/** Mob postintro start**/
+
+    /** .wrapper {
+        padding-left: 15px;
+        padding-right: 15px;
+    }**/
+    
+    .postintro {
+        padding-top: 120px;
+    }
+    .postintro__content {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 36px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+/** Mob postintro end**/
+/** menspy styles start **/
+    .menpsy__wrapper {
+
+    }
+    
+    .menpsy__header {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 42px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .menpsy__content p  {  
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 36px;
+        color: #000000;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+/** menspy styles end**/
+
+
+/** reasons styles start **/
+    .reasons-header {
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .reasons-background {
+        background: #06131B;
+        border-radius: 10px;
+        padding: 15px 15px 15px 15px;
+    }
+
+    .reasons-list {
+        height: 102px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .reasons-list__item {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .reasons-post {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 36px
+        padding-left:15px;
+        padding-right: 15px;
+    }
+
+/** reasons styles end **/
+
+/* results start*/
+    .results__img {
+        display: none;
+    }
+
+    .results__text-item {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 28px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .results__text {
+        margin: 0 auto;
+    }
+/* results end */
+/* program start*/
+
+    .programm__header{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .programm__items__name {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 32px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .programm__items__text {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+/* program end */
+
+/* reviews start */
+    .wrapper__reviews {
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .reviews__items {
+        width: 458px;
+        height: 444px;
+        border: 1px solid #06131B;
+        box-sizing: border-box;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        overflow: scroll;
+}
+
+    .reviews__items__name {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .reviews__items__review {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+    }
+/* reviews end */
+/* about start */
+
+    .about__text {
+        padding-left: 15px;
+        padding-right: 15px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+/* about end */
+/* cost start */
+    .cost__banner {
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+/* cost end */
+
+    .understand__header {
+        padding-left: 15px;
+        padding-right: 15px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 36px;
+    }
+}
+
+/* results end */
